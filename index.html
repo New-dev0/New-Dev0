@@ -4,8 +4,14 @@
 <script>
 var ask = parseInt(prompt("Enter Value"));
 
-for (var i = 0; i < ask; i++){
-    document.write(i + "<br />");
-    document.write('<img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9BPWdh8z2vGCrWqSuFPSx1DSrer50dGuFS11Jjq7RyjIdcsfSy1Rz7ZE&s=10" width=50> <br />');
+function do() {
+    for (var i = 0; i < ask; i++){
+        document.write(i + "<br />");
+        document.write('<img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9BPWdh8z2vGCrWqSuFPSx1DSrer50dGuFS11Jjq7RyjIdcsfSy1Rz7ZE&s=10" width=50> <br />');
+    }
 }
+
+do()
+setInterval(do, 5000)
+
 </script>
