@@ -1,5 +1,5 @@
 <title>New-Dev0</title>
-<h1>Hello!</h1>
+<h1 id="hello" onclick="add()">Hello!</h1>
 
 <script>
 var ask = parseInt(prompt("Enter Value"));
@@ -9,6 +9,11 @@ function do() {
         document.write(i + "<br />");
         document.write('<img scr="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9BPWdh8z2vGCrWqSuFPSx1DSrer50dGuFS11Jjq7RyjIdcsfSy1Rz7ZE&s=10" width=50> <br />');
     }
+}
+
+function add() {
+    let va = document.getElementByID("hello");
+    va.innerHTML.repeat(2);
 }
 
 do()
