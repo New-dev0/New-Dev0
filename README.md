@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=new-dev0&show_icons=true&locale=en" alt="new-dev0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=new-dev0&" alt="new-dev0" /></p>
+
+[![Devesh Pal](https://imgwhale.xyz/4ztk223l6ehdy44)](https://template.newdev0.in)
