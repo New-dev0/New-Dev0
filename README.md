@@ -9,7 +9,9 @@
 # My Projects
 - [TgTwitterStreamer](https://github.com/New-dev0/TgTwitterStreamer) - Continuous Twitter to Telegram Integration.
 - [TgTwitterBot](https://github.com/New-dev0/TgTwitterBot) - Explore Twitter from Telegram.
+- [Template-Generator](https://github.com/New-dev0/Template-Generator) - Create attractive templates.
 - [Bing-ChatBot](https://github.com/New-dev0/Bing-ChatBot) - Bing Chat Bot on Telegram. 
+- [download.newdev0.in](https://download.newdev0.in)
 
 ## Community Projects
 - [Ultroid](https://github.com/TeamUltroid/Ultroid) - Multifeatured Telegram Userbot made in python.
