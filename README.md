@@ -7,6 +7,7 @@
 </p>
 
 # My Projects
+- [EmojiBee](https://github.com/New-dev0/EmojiBee) - Predict emojis for images. (uses BLIP Image Captioning and GPT3)
 - [TgTwitterStreamer](https://github.com/New-dev0/TgTwitterStreamer) - Continuous Twitter to Telegram Integration.
 - [TgTwitterBot](https://github.com/New-dev0/TgTwitterBot) - Explore Twitter from Telegram.
 - [Template-Generator](https://github.com/New-dev0/Template-Generator) - Create attractive templates.
