@@ -25,6 +25,8 @@
 - Tools: Git, Heroku, Redis, Docker
 
 ## 📊 GitHub Stats
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=New-dev0" alt="new-dev0" /> </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=new-dev0&show_icons=true&theme=radical" alt="new-dev0" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=new-dev0&theme=radical" alt="new-dev0" />
