@@ -1,42 +1,53 @@
-# Hi, I am Devesh Pal
-<h3 align="center">A passionate developer from India</h3>
+# Hi, I am Devesh Pal 👋
+<h3 align="center">A passionate full-stack developer from India 🇮🇳</h3>
 
 
 <p align="center">
 <img width="200" src="https://media0.giphy.com/media/LLKRc4dEfKH3FHvAGw/giphy.webp?cid=6c09b952a406e9df93b96a7929ebec5bf6dfd93197788592&rid=giphy.webp&ct=g"> 
 </p>
 
-# My Projects
-- [EmojiBee](https://github.com/New-dev0/EmojiBee) - Predict emojis for images. (uses BLIP Image Captioning and GPT3)
-- [TgTwitterStreamer](https://github.com/New-dev0/TgTwitterStreamer) - Continuous Twitter to Telegram Integration.
-- [TgTwitterBot](https://github.com/New-dev0/TgTwitterBot) - Explore Twitter from Telegram.
-- [Template-Generator](https://github.com/New-dev0/Template-Generator) - Create attractive templates.
-- [Bing-ChatBot](https://github.com/New-dev0/Bing-ChatBot) - Bing Chat Bot on Telegram. 
-- [download.newdev0.in](https://download.newdev0.in)
+## 🚀 Featured Projects
+- [EmojiBee](https://github.com/New-dev0/EmojiBee) - AI-powered emoji generator for images (BLIP + GPT3)
+- [SpotifyIG](https://github.com/New-dev0/SpotifyIG) - Automate Spotify song sharing to Instagram stories
+- [TeleCloudBot](https://github.com/New-dev0/TeleCloudBot) - Switch Mini-App for Telegram file streaming
+- [switch-ts](https://github.com/New-dev0/switch-ts) - TypeScript client library for Switch platform bots and apps
+- [TgTwitterStreamer](https://github.com/New-dev0/TgTwitterStreamer) - Continuous Twitter to Telegram Integration
+- [TgTwitterBot](https://github.com/New-dev0/TgTwitterBot) - Explore Twitter from Telegram
+- [Bing-ChatBot](https://github.com/New-dev0/Bing-ChatBot) - Bing Chat Bot on Telegram
+- [Template-Generator](https://github.com/New-dev0/Template-Generator) - Create attractive templates
 
-## Community Projects
-- [Ultroid](https://github.com/TeamUltroid/Ultroid) - Multifeatured Telegram Userbot made in python.
+## 🌟 Community Contributions
+- [Ultroid](https://github.com/TeamUltroid/Ultroid) - Advanced Multi-Featured Telegram UserBot (Python + Telethon)
 
-## Donate and Support
-- Contact me on [Telegram](https://t.me/karboncopy) to know.
+## 🛠️ Tech Stack
+- Languages: Python, TypeScript, JavaScript
+- Frameworks: Next.js, Express.js, React
+- Tools: Git, Heroku, Redis, Docker
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=new-dev0&show_icons=true&theme=radical" alt="new-dev0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=new-dev0&theme=radical" alt="new-dev0" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=new-dev0&theme=radical" alt="new-dev0 profile summary" />
+</p>
+
+
+## 🌐 Connect with me
+<p align="center">
+  <a href="https://t.me/karboncopy"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://twitter.com/NewDev0"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+
+## 💖 Support My Work
+If you find my projects helpful, consider supporting me:
+- [Buy me a coffee](https://www.buymeacoffee.com/newdev0) ☕
+- Contact me on [Telegram](https://t.me/karboncopy) for other options
+
 <hr>
 
-<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=New-dev0" alt="new-dev0" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=new-dev0" alt="new-dev0" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/newdev0" target="blank"><img src="https://img.shields.io/twitter/follow/newdev0?logo=twitter&style=for-the-badge" alt="newdev0" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://t.me/karboncopy"><img align="center" alt="karboncopy" src="https://img.icons8.com/fluency/48/undefined/telegram-app.png" height="40" width="40"/></a>
-<a href="https://dev.to/newdev0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="newdev0" height="30" width="40" /></a>
-<a href="https://twitter.com/newdev0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="newdev0" height="30" width="40" /></a>
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=new-dev0&show_icons=true&locale=en" alt="new-dev0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=new-dev0&" alt="new-dev0" /></p>
-
-<p><a href="https://template.newdev0.in"><img align="center" src="https://imgwhale.xyz/4ztk223l6ehdy44" alt="Devesh Pal" width=500 /></a></p>
