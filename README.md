@@ -32,7 +32,10 @@
 <a href="https://github.com/New-dev0/TeleCloudBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=New-dev0&repo=TeleCloudBot&theme=radical" />
   </a>
-</div>
+<a href="https://github.com/New-dev0/TeleCloudBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=New-dev0&repo=switch-ts&theme=radical" />
+  </a>
+  </div>
 
 ### More Projects
 - 🤖 **[TeleCloudBot](https://github.com/New-dev0/TeleCloudBot)** - `TypeScript` `Telegram Bot API` - File streaming mini-app
@@ -141,8 +144,3 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=new-dev0&theme=radical" alt="Stats" width="49%" />
   </p>
 </div>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=new-dev0&theme=redical&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-
-
